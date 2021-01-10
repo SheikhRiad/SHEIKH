@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fantasy premier league</title>
+    <link rel="stylesheet" href="style.css">
+<body>
+ <h1>welcome to english premier league</h1>
+<img src="fpl1.jpg" alt="YNWA" width="800" height="200">
+
+</body>	
+<body>
+    <div class="box">
+        <nav class="menu">
+            <ul>
+                <li><a href="#">Premier league</a></li>
+                <li><a href="#">Fantasy</a></li>
+                <li><a href="#">More</a>
+                    <ul>
+                <li><a href="#">NO room for racism</a></li>
+                <li><a href="#">var</a>
+                    <ul>
+                        <li>Real madrid</li>
+                        <li>Manchester United
+                            <ul>
+                                <li>history of var</li>
+                                <li>Var</li>
+                                <li>stats</li>
+                                <li>Epremier league</li>
+                            </ul>
+                        </li>
+                        <li>Barcelona</li>
+                        <li>PSG</li>
+                    </ul>
+                </li>
+                <li><a href="#">Rainbow for everyone</a></li>
+                <li><a href="#">Transfer</a></li>
+                <li><a href="#">Manager</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Communities</a></li>
+            </ul>
+        </nav>
+        <nav class="menu2">
+            <ul>
+                <li>home</li>
+                <li>Players</li>
+                <li>Table
+                    <ul>
+                        <li>Liverpool</li>
+                        <li>leeds united</li>
+                        <li>Arsenal</li>
+                        <li>Tottenham</li>
+
+                    </ul>
+                   
+                </li>
+                <li>News</li>
+            </ul>
+        
+        </nav>
+        
+    </div>
+
+</body>
+</body>
+
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn on the light</button>
+
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
+
+</body>
+</html>
+
